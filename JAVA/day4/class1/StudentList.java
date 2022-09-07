@@ -7,7 +7,7 @@ public class StudentList {
 	List<Student> students = new ArrayList<>();
 	public List<Student> getStudent() {
 		students.add(new Student(101, "Louis", 91));
-		students.add(new Student(102, "Taylor", 95));
+		students.add(new Student(102, "Liam", 95));
 		students.add(new Student(103, "Harry", 96));
 		students.add(new Student(104, "Zain", 84));
 		students.add(new Student(105, "Naill", 80));
